@@ -15,10 +15,15 @@ Input a DNA sequence: CATTTGCAGG
 Matching patterns are:
 
 CATTTGCA
+
 CATTTGCAG
+
 CATTTGCAGG
+
 ATTTGCA
+
 ATTTGCAG
+
 ATTTGCAGG
 
 Input a DNA sequence: TTTATAA
@@ -26,12 +31,25 @@ Input a DNA sequence: TTTATAA
 Matching patterns are:
 
 TTTATA
+
 TTTATAA
+
 TTATA
+
 TTATAA
+
 TATA
+
 TATAA
+
 ATA
+
 ATAA
+
 TAA
+
 AA
+
+
+
+
