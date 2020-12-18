@@ -1,4 +1,4 @@
-# DFA
+# Deterministic Finite Automata
 Description:
 In this assignment, you will implement a deterministic finite automata (DFA) using C++ programming language to extract all matching patterns (substrings) from a given input DNA sequence string. 
 
